@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407574974820",
+    "firebase_url": "https://flutterpro-38088.firebaseio.com",
+    "project_id": "flutterpro-38088",
+    "storage_bucket": "flutterpro-38088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407574974820:android:cdb0d71ed9ab64e42eea71",
+        "android_client_info": {
+          "package_name": "com.rendomwebsite.flutterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407574974820-4qv7t4aieidpu2hracnklf6ljqc4n1c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnG5C2bK96GpRO5YXQwDHQe8cItvii6EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407574974820-4qv7t4aieidpu2hracnklf6ljqc4n1c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
